@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!, i'm Ryan<br><br>Have an interest in Cloud Computing using GCP and also Back End .<br> 🌱 I’m currently Cloud Computing<br>    
+Hi!, i'm Ryan<br><br>Have an interest in Cloud Computing using GCP and also Back End .<br> 🌱 I’m currently Cloud Computing Cohort At Bangkit Academy<br>    
 📫 Feel Free To Contact Me : m.adryan54@gmail.com<br><br>
 
 
