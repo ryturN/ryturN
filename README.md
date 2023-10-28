@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi!, i'm Ryan<br><br>Have an interest in Cloud Computing using GCP and also Back End .<br> Have Skills Human Resource and Project Management <br>due to my educational background in management. <br>These skills include managing an organization, organizing events,<br> and leading small-scale projects<br><br>    🌱 I’m currently Cloud Computing<br>    📫 Feel Free To Contact Me : m.adryan54@gmail.com<br><br>
+Hi!, i'm Ryan<br><br>Have an interest in Cloud Computing using GCP and also Back End .<br> 🌱 I’m currently Cloud Computing<br>    
+📫 Feel Free To Contact Me : m.adryan54@gmail.com<br><br>
 
 
 ## 🌐 Socials:
