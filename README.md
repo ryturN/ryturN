@@ -1,3 +1,4 @@
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd3YjZwM2ZjdXd5bjJ4andrdjlmZnphandjczBveHQ3dWY5YzV2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksaY1IYX00gtESeTuy/giphy.gif
 Hi!, i'm Ryan<br><br>Have an interest in Cloud Computing using GCP and also Back End .<br> 🌱 I’m currently Cloud Computing Cohort At Bangkit Academy<br>   
 # 💫 About Me:
  
