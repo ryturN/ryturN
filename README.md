@@ -1,8 +1,7 @@
 <img align="center" alt="waifu" width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd3YjZwM2ZjdXd5bjJ4andrdjlmZnphandjczBveHQ3dWY5YzV2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksaY1IYX00gtESeTuy/giphy.gif">
-Hi!, i'm Ryan<br><br>Have an interest in Cloud Computing using GCP and also Back End .<br> 🌱 I’m currently Cloud Computing Cohort At Bangkit Academy<br>   
-# 💫 About Me:
- 
+<h1 align="center">Hi!, i'm Ryan</h1><h3 align="center">Have an interest in Cloud Computing using GCP and also Back End .<br></h3><br><br><br> 
 
+🌱 I’m currently Cloud Computing Cohort At Bangkit Academy<br>   
 📫 Feel Free To Contact Me : m.adryan54@gmail.com<br><br>
 ## 🌐 Socials:
 <img align="right" alt="shinji" width="500" src="https://media.tenor.com/PT3TydYUhkwAAAAC/shinji-hirako-tybw-bleach.gif"> 
