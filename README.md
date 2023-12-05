@@ -2,10 +2,10 @@
 Hi!, i'm Ryan<br><br>Have an interest in Cloud Computing using GCP and also Back End .<br> 🌱 I’m currently Cloud Computing Cohort At Bangkit Academy<br>   
 # 💫 About Me:
  
-<img align="right" alt="shinji" width="400" src="https://media.tenor.com/PT3TydYUhkwAAAAC/shinji-hirako-tybw-bleach.gif"> 
+
 📫 Feel Free To Contact Me : m.adryan54@gmail.com<br><br>
 
-
+<img align="right" alt="shinji" width="400" src="https://media.tenor.com/PT3TydYUhkwAAAAC/shinji-hirako-tybw-bleach.gif"> 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/m.adryan14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryturn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-adryan-74084924b/) 
 
