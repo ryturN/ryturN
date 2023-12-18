@@ -6,7 +6,6 @@
 ## 🌐 Socials:
 <img align="right" alt="shinji" width="500" src="https://media.tenor.com/PT3TydYUhkwAAAAC/shinji-hirako-tybw-bleach.gif"> 
 
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/m.adryan14) 
 <br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryturn_) 
 <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-adryan-74084924b/) 
@@ -20,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ryturN&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryturN&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+![](https://komarev.com/ghpvc/?username=ryturN&label=PROFILE+VIEWS)
 
 
   
