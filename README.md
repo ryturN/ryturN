@@ -3,6 +3,8 @@
 
 🌱 I’m currently Cloud Computing Cohort At Bangkit Academy<br>   
 📫 Feel Free To Contact Me : m.adryan54@gmail.com<br><br>
+
+Currently active in https://gitlab.com/watashiox123
 ## 🌐 Socials:
 <img align="right" alt="shinji" width="500" src="https://media.tenor.com/PT3TydYUhkwAAAAC/shinji-hirako-tybw-bleach.gif"> 
 
