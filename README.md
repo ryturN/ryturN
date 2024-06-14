@@ -23,6 +23,9 @@ Currently active in <a href="https://gitlab.com/watashiox123">Gitlab</a>
 
 ![](https://komarev.com/ghpvc/?username=ryturN&label=PROFILE+VIEWS)
 
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ryturN&limit=5&theme=dark&combine_all_yearly_contributions=true)
+    
 <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryturN/ryturN/output/github-contribution-grid-snake-dark.svg" width="100%">
